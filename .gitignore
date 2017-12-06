@@ -1,10 +1,26 @@
+# Android Studio
+.idea/
 *.iml
-.gradle
-/local.properties
 
+# Mac File Store
 .DS_Store
-/build
+
+# Generated Files
+build/
+config/
+*/build
+
+# Gradle Files
+.gradle/
+
+# Log Files
+.log
+
+# Properties Files
+local.properties
+
+# Lint files
+*/lint.xml
+
+# Other
 /captures
-.externalNativeBuild
-/gradlew
-/.idea/
