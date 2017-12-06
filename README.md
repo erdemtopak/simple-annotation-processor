@@ -1,6 +1,6 @@
 Simple Annotation Processor
 ===========================
-A simple annotation processor example, inspired by the idea of "How ButterKnife works?"
+A simple annotation processor example, inspired by the idea of "**How ButterKnife works?**"
 
 In this sample project there are two self-explaining annotations : ```@RandomInt``` and ```@RandomString```
 
